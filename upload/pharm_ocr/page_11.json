@@ -1,0 +1,28 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Integrase Inhibitors  \nClassify Aminoglycoside. - MOA, S/E,  \nProphylaxis of HIV C Post - exposure)  \nAmphotericin - B  \nJarisch Reaction  \nFluoroquinolones  \nMefloquine  \nClassify Antimalarial Drugs & Oral Therapy  \nof Cerebral Malaria  \nAlbendazole  \nRifampicin  \nDapsone  \nFactors affecting Selection of AMA  \nClassify Anti - TB Drug, Define various  \ncategory of Patient & write about Category  \nChoice of Antimicrobial Agents  \nArtemether + Lumefantrine Combination  \nRemdesivir  \nPT of MB, Atrium complex Infection",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1782413255,
+  "id": "20260626024725c67e47c4fcfa4427",
+  "model": "glm-4.6v",
+  "object": "chat.completion",
+  "request_id": "20260626024725c67e47c4fcfa4427",
+  "usage": {
+    "completion_tokens": 151,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 5026,
+    "prompt_tokens_details": {
+      "cached_tokens": 7
+    },
+    "total_tokens": 5177
+  }
+}

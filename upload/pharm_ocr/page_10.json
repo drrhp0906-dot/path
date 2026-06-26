@@ -1,0 +1,28 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "* Antimicrobial Drugs :-\n○ Compare & Contrast - Pen. G & Amoxicillin\n○ Cotrimoxazole\n  • β - Lactamase Inhibitor\n○ Anti H-Pylori Drug\n○ Use, S/E of Tetracycline\n  • Classify Cephalosporins, Use, S/E of 3rd generation.\n○ Protease Inhibitors\n  • Classify Anti-retroviral Drug & Therapy for HIV Infection\n○ Doxycycline\n○ Metronidazole\n○ HAART\n  • Tigecycline\n○ Vancomycin\n○ ACT\n○ Gentamycin\n○ Meropenam\n○ Isoniazide\n○ Sirolimus\n  • Rx of Category - I TB\n  • Rx of Category - II TB\n○ Classify Macrolide - MOA, Use, S/E of Erythromycin",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1782413243,
+  "id": "20260626024713b80fc3d0f3584b40",
+  "model": "glm-4.6v",
+  "object": "chat.completion",
+  "request_id": "20260626024713b80fc3d0f3584b40",
+  "usage": {
+    "completion_tokens": 194,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 5026,
+    "prompt_tokens_details": {
+      "cached_tokens": 63
+    },
+    "total_tokens": 5220
+  }
+}

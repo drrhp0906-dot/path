@@ -1,0 +1,28 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "* CVS :-\n○ CCB\n- Classify Drugs for CHF, Digoxin - MOA, Use, S/E\n○ Losartan\n- Hydrochlorothiazide in HTN\n- Compare & contrast Captopril & Losartan.\n○ Pharmacological Therapy of MI\n- Amlodipine, glyceryl trinitrate\n- Captopril - Use, S/E, MOA\n○ S/E of ACEO + Use / Drug Treatment for chronic angina\n- Management of Pregnancy induced HTN\n- Digoxin for Acute LVF\n○ Compare & contrast Verapamil & Nifedipine\n- Classify Anti-HTN, MOA, Use & S/E of Nifedipine\n- Enalapril, Nitroglycerine, Losartan in HTN\n- CCB - Use, MOA, S/E\n- Treatment of Acute LVF\n○ Clopidogrel\n- Digitalis in Atrial Flutter\n- Nitrate in Cyanide Poisoning\n○ Plasma expander\n○ Classify Antianginal - MOA, Use, S/E of Propranolol.\n- Adenosine, Dantrolene\n○ Drugs which Prolong QT Interval\n○ Use of Adenosine in PSVT",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1782413204,
+  "id": "2026062602462839f377dfe6f141ff",
+  "model": "glm-4.6v",
+  "object": "chat.completion",
+  "request_id": "2026062602462839f377dfe6f141ff",
+  "usage": {
+    "completion_tokens": 274,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 5026,
+    "prompt_tokens_details": {
+      "cached_tokens": 4
+    },
+    "total_tokens": 5300
+  }
+}

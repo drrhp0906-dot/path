@@ -1,0 +1,28 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "* Autacoids :-\n• Prostaglandin Analogues\n• Aspirin in MI\n• Fexofenadine\n• Sumatriptan\n• Allopurinol in gout\n• Celecoxib\n• Febuxostat\n• Prophylaxis of Migraine\n• Classify NSAIDS & write Aspirin.\n• gout\n• H1 Antagonist\n• 5-HT Receptors & uses of Drugs which act through Receptors\n• Ibuprofen in Pain\n• Methotrexate in RA (Aspirin)\n\n* RS :-\n• Drug Therapy for Chronic Bronchial Asthma.\n• Classify Anti-Asthmatic Drugs , MOA , S/E of Theophylline .\n• Mast Cell Stabilizers .\n• Inhaled Steroids .\n• Leukotriene Antagonist\n• Drug Therapy for Status Asthmaticus\n• Salbutamol - MOA , S/E , Route & Uses\n• Omalizumab\n• Drug Therapy of Acute Bronchial Asthma\n• Mucolytics\n• Expectorants\n• Sodium cromoglycate\n• Dextromethorphan in Dry Cough\n• Ipratropium in Bronchial Asthma",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1782413110,
+  "id": "202606260244594860ac6455ee4063",
+  "model": "glm-4.6v",
+  "object": "chat.completion",
+  "request_id": "202606260244594860ac6455ee4063",
+  "usage": {
+    "completion_tokens": 270,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 5026,
+    "prompt_tokens_details": {
+      "cached_tokens": 7
+    },
+    "total_tokens": 5296
+  }
+}

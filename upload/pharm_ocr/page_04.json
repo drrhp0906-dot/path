@@ -1,0 +1,28 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "* Endocrine system :\n• classify Insulin Preparation, Use ; SIE of Insulin.\n• Use + Adverse effects of corticosteroid HPA axis Suppression\n• glucocorticoid in TB\n• Bisphosphates\n• Estrogen\n• Oxytocin\n• Oxytocin v/s ergometrine\n• DPP-4 Inhibitor\n• Metformin\n• Oral Hypoglycemic Drugs (classification, MOA, SIE of Metformin & glipizide\n• Selective estrogen Receptor Modulator (SERM)\n• Prednisone\n• Anti - Thyroid Drugs\n• Use, SIE & c/I of glucocorticoid\n• Tocolytics\n• Anabolic Steroids\n• Classify OCP, Describe MOA, s/E of combined OCPs .\n• Oral Therapy of Diabetic Ketoacidosis\n• P.L Basis of clomiphene citrate in infertility.\n• Respiralthiuracil\n• Emergency Contraception\n• Classify oral Hypoglycemic, Current status of drug in Rx.\n• Octreotide\n• Radioactive Iodine\n• Aromatase",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1782413147,
+  "id": "202606260245344e62ee379ccc4825",
+  "model": "glm-4.6v",
+  "object": "chat.completion",
+  "request_id": "202606260245344e62ee379ccc4825",
+  "usage": {
+    "completion_tokens": 254,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 5026,
+    "prompt_tokens_details": {
+      "cached_tokens": 7
+    },
+    "total_tokens": 5280
+  }
+}

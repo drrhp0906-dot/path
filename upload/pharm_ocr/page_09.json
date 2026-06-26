@@ -1,0 +1,28 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "• Classify Deparin - MOA, SIE, Use\n• Local Haemastatic Agent\n• Erythropoietin\n• Streptokinase\n• Cardioprotective effect of Statin\n\n* GIT :-\n\n• Classify Antiulcer Drugs, Salient features of PPI\n• ORS\n• Al(OH)₃\n• Antiemetic classification, Metoclopramide\n• Omeprazole\n• Anti-H, pylori Rx\n• Anti - H Pylori Drugs\n• Bulk forming laxative\n• Pathophysiology of emesis, Write Salient features of Drug affecting it\n• Antimicrobials in diarrhea\n• Peptic Ulcer Drug - Remetidine\n• CLI, Use & choice of Purgatives\n• Compare & contrast - Metoclopramide & Domperidone",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1782413231,
+  "id": "20260626024701782d5241b4bf45a6",
+  "model": "glm-4.6v",
+  "object": "chat.completion",
+  "request_id": "20260626024701782d5241b4bf45a6",
+  "usage": {
+    "completion_tokens": 185,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 5026,
+    "prompt_tokens_details": {
+      "cached_tokens": 7
+    },
+    "total_tokens": 5211
+  }
+}

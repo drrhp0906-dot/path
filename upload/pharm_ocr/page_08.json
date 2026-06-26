@@ -1,0 +1,28 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "* Kidney :-\n○ Complications of High Ceiling Diuretics & Thiazide.\n  • Classify Diuretics\n  • High Ceiling Diuretics\n○ Osmatic Diuretic + Mannitol in Cerebral edema\n  • Physiology of Urine formation\n  • Use , SIE of furosemide\n  • K⁺ sparing Diuretics\n○ Compare & Contrast furosemide & acetazolamide\n\n* Blood :-\n○ Compare & Contrast Heparin & Warfarin\n  • Classify Anti- coagulants\n○ Warfarin\n○ Oral v/s Parenteral Iron Therapy\n  • Statins\n  • Fibrinolytics , Ezetimibe\n○ Selegiline\n  • FeSO₄\n○ Rosuvastatin\n○ Vitamin B12\n○ Clopidogrel - MOA , SIE & Uses",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1782413218,
+  "id": "20260626024648a0235f6beefe4530",
+  "model": "glm-4.6v",
+  "object": "chat.completion",
+  "request_id": "20260626024648a0235f6beefe4530",
+  "usage": {
+    "completion_tokens": 192,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 5026,
+    "prompt_tokens_details": {
+      "cached_tokens": 63
+    },
+    "total_tokens": 5218
+  }
+}

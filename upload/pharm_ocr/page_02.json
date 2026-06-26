@@ -1,0 +1,28 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "* Amphetamine in Hypokinetic Patients\nMOA and ADR of Pilocarpine in glaucoma\n\n* ANS :-\n\n• Adrenaline - Local Anaesthetic\n• Non - depolarizing SMR\n• Classify Sympatholytics, Use & S/E & CI of Metoprolol.\n• Detail of Open Angle glaucoma.\n• Physiological Basis of Pilocarpine in OP Poisoning.\n• Adrenaline in Anaphylactic Shock.\n• Oral Therapy of OP Poisoning.\n• Non - cardiovascular use of β #.\n• Classify Adrenergic Drug, Receptor Mediated Use & MOA of Adrenaline.\n• Brimonidine in Open Angle glaucoma.\n• Atropine in OP- Poisoning.\n• Timolol in glaucoma.\n• Brimonidine - TIt in Open Angle glaucoma\n• Classify α - Blocker + general effects & Use\n• Mydriatics\n• Cardioselective β - Blockers.\n• Tamsulosin\n• Use of β - Blocker in Open Angle glaucoma.\n• Latanoprost\n• Anorexic Agents\n• Treatment of chronic Simple glaucoma.\n• Dopamine in cardiogenic Shock.\n• Anticholinergic & Atropine\n• Myasthenia gravis ( Neostigmine)\n• glaucoma & Drug Therapy of Acute Congestive glaucoma\n• β - Blockers Uses & Propranolol\n• Atenolol\n• α - 1 Antagonist\n• Physostigmine in Belladonna Poisoning",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1782413130,
+  "id": "202606260245229d3abdc5dce047f9",
+  "model": "glm-4.6v",
+  "object": "chat.completion",
+  "request_id": "202606260245229d3abdc5dce047f9",
+  "usage": {
+    "completion_tokens": 342,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 5026,
+    "prompt_tokens_details": {
+      "cached_tokens": 7
+    },
+    "total_tokens": 5368
+  }
+}

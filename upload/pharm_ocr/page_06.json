@@ -1,0 +1,28 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "• MOA, Use & S/E of Sch.\n○ L-Dopa + Carbidopa → Pharm. Basis\n• Sodium Valproate\n○ c/I, MOA of Opioid analgesics + Morphine\n○ Classify BZD, MOA, Use & S/E of Diazepam\n○ Classify Antipsychotic, MOA, S/E of chlorpromazine.\n○ Haloperidol\n○ Second gas effect\n○ Ropinirole\n○ Morphine Poisoning\n• MOA, S/E & Uses of Haloperidol\n• Classification – Parkinsonism Drug, Levodopa\n• Dantrolene in Malignant Hyperthermia.\n• Classify Antiepileptic drug – Valproic acid\n• SSRIs\n○ Pure Opioid Antagonist\n• Atypical Antipsychotic\n○ Bromocriptine V/s\n○ Fentanyl\n○ Lamotrigine\n○ Flumazenil in BZD Poisoning\n• Mivacurium\n○ Dissociative Anesthesia",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1782413186,
+  "id": "20260626024611d04761202458403e",
+  "model": "glm-4.6v",
+  "object": "chat.completion",
+  "request_id": "20260626024611d04761202458403e",
+  "usage": {
+    "completion_tokens": 226,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 5026,
+    "prompt_tokens_details": {
+      "cached_tokens": 7
+    },
+    "total_tokens": 5252
+  }
+}

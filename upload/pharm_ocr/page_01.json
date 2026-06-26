@@ -1,0 +1,28 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "★ Pharmacology ★\n* General Pharmacology:-\n- Factors affecting Bioavailability.\n○ Route of Administration, Advantages & Disadvantages of Parenteral Route.\n○ Competitive Antagonist.\n○ Phase of Clinical Trial.\n○ Factors affecting Drug Action – genetics, gender & age → explain in Detail.\n- TDM.\n- New Drug Delivery System.\n○ GPCR\n○ Drug Dependence\n- Volume of Distribution.\n○ t ½.\n○ Management of Anaphylactic Shock.\n- Describe type of Antagonism with examples.\n○ PPB\n○ First Pass Metabolism.\n○ Therapeutic Drug Monitoring.\n- Clinical status of Drug in Disease.\n○ Pharmacovigilance.\n- Agent causing Allergic Reaction & Drug induced Anaphylaxis & its Reaction.\n○ Define ® & ® Regulating gene expression.\n- Define Biotransformation & Enzyme Induction Inhibition with examples\n- Adverse Drug effects.\n- Teratogenicity\n- Drug Tolerance\n- Therapeutic Index\n- Zero order Kinetics",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1782413105,
+  "id": "20260626024459d86d60b7fa0145b0",
+  "model": "glm-4.6v",
+  "object": "chat.completion",
+  "request_id": "20260626024459d86d60b7fa0145b0",
+  "usage": {
+    "completion_tokens": 215,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 5026,
+    "prompt_tokens_details": {
+      "cached_tokens": 7
+    },
+    "total_tokens": 5241
+  }
+}

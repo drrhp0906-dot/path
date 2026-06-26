@@ -1,0 +1,28 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "• Classify Anti-Thyroid & write about  \nThia-amide  \n• Classify drug for DM, MOA, SIE of Insulin  \n\n* PNS :-  \n+ Non-Depolarizers  \n○ Centrally Acting Skeletal Muscle Relaxant  \n○ Dantrolene in Malignant Hyperthermia  \n○ Advantages of Local anesthesia  \n• Vacuamine  \n• Lignocaine  \n• Neostigmine in overdose of curare  \n\n* CNS :-  \n• Succinyl Co-A Poisoning  \n• Drug Therapy for status epilepticus  \n○ Classify Local Anaesthetic Agent, MOA, Use & SIE of Lignocaine  \n○ Classify Centrally Acting Skeletal Muscle Relaxants + MOA, Use & SIE of Dantrolene  \n○ Ethyl Alcohol  \n○ Type of epilepsy, Phenytoin – MOA, SE, PK  \n• Morphine v/s Pethedine  \n○ Oral v/s Parenteral Iron Therapy",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1782413168,
+  "id": "202606260245560831989c3ca54d8b",
+  "model": "glm-4.6v",
+  "object": "chat.completion",
+  "request_id": "202606260245560831989c3ca54d8b",
+  "usage": {
+    "completion_tokens": 209,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 5026,
+    "prompt_tokens_details": {
+      "cached_tokens": 7
+    },
+    "total_tokens": 5235
+  }
+}
